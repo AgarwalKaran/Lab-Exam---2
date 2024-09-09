@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Persian",
+        "temperament": "Affectionate, Intelligent, Loyal",
+        "origin": "Iran",
+        "description": "The Persian cat is a long-haired breed of cat characterized by its round face and short muzzle.",
+        "lifespan": "12-17 years",
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjr-6m4fJFTmH4sIqOHIMJbQBTMw4JhG-CcVscjg5N-fDXF6ku"
+    },
+    {
+        "id": "2",
+        "name": "Siamese",
+        "temperament": "Social, Intelligent, Playful",
+        "origin": "Thailand",
+        "description": "Siamese cats are known for their slender bodies, blue almond-shaped eyes, and distinct color points.",
+        "lifespan": "15-20 years",
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST4vFqkon9beoNKaEGwJsaFJTR7l61rtMhYJgvHEWuc0QT5ajF"
+    },
+    {
+        "id": "3",
+        "name": "Maine Coon",
+        "temperament": "Gentle, Friendly, Intelligent",
+        "origin": "United States",
+        "description": "Maine Coons are large, sociable cats known for their dense fur and bushy tails.",
+        "lifespan": "13-14 years",
+        "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwJwLUhV1PHc4sPeQHpLA2BaDHdW9ZL2RnB-FRcHsdCljuMmHa"
+    },
+    {
+        "id": "4",
+        "name": "Bengal",
+        "temperament": "Curious, Athletic, Energetic",
+        "origin": "United States",
+        "description": "Bengal cats have a wild appearance with large spots and rosettes reminiscent of leopards.",
+        "lifespan": "12-16 years",
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7ij3bsv2ASirQgvx_OLhS5mcMeBg1LukFgd44yHiHzmOUlc2r"
+    },
+    {
+        "id": "5",
+        "name": "British Shorthair",
+        "temperament": "Calm, Loyal, Easygoing",
+        "origin": "United Kingdom",
+        "description": "British Shorthairs are stocky, solid cats known for their dense fur and rounded appearance.",
+        "lifespan": "14-20 years",
+        "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQutEK4deQ_RHVHb4-vmyZ0XokQzrfFUOKiYhsD8xtF1ggYE8uW"
+    },
+    {
+        "id": "6",
+        "name": "Sphynx",
+        "temperament": "Affectionate, Lively, Curious",
+        "origin": "Canada",
+        "description": "Sphynx cats are known for their lack of fur, large ears, and wrinkled skin.",
+        "lifespan": "8-14 years",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRswpRNhI2MtlpUpkS8td-DFjy6Xv9orsCsH4X3JMZthpnM0OzO"
+    }
+]

@@ -1,0 +1,140 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Navigation styles */
+header nav {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+header nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+/* Hero section styles */
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 50px;
+    background-color: #eef2f5;
+    font-size: 20px;
+}
+
+.hero img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.about{
+    margin: 20px;
+    font-size: 20px;
+}
+/* Cat display section */
+.cat-display {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#cat-image-container img {
+    max-width: 300px;
+    margin: 10px auto;
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Signup form styles */
+.signup-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.signup-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.signup-form input {
+    width: calc(100% - 20px);
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.signup-form small {
+    color: red;
+    visibility: hidden;
+}
+
+/* Cat breed cards */
+.cat-list {
+    padding: 20px;
+}
+
+.cat-card {
+    background-color: #fff;
+    margin: 20px 0;
+    padding: 15px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cat-card img {
+    max-width: 200px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+#fetch-btn{
+    padding: 20px;
+    font-size: 19px;
+    border-radius: 20px;
+    /* box-shadow: 0px 0px 50px 2px black;
+     */
+     /* background-color: red; */
+     cursor: pointer;
+}
+#sbbtn{
+    padding: 20px 30px;
+    font-size: 19px;
+    border-radius: 20px;
+    margin: auto;
+    cursor: pointer;
+    position: relative;
+    left: 90px;
+}
